@@ -9,5 +9,7 @@ Tools include
 - *deluder-1.2 <https://github.com/Warxim/deluder/releases/tag/v1.2>*
 ---
 # Booting
-The boot screen displays "Package" then a loading bar and the customization options:
-- Press 'c' for a command line
+The boot screen displays "Package" then a loading bar and the customization options (not implemented):
+- Press 'c' for a command line - dummy function
+- Press 'e' to edit UEFI - dummy function
+
